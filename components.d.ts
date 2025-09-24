@@ -9,7 +9,6 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     BackToTop: typeof import('./src/components/BackToTop.vue')['default']
-    BCol: typeof import('bootstrap-vue-next/components/BContainer')['BCol']
     ContactModal: typeof import('./src/components/ContactModal.vue')['default']
     Loader: typeof import('./src/components/Loader.vue')['default']
     LogoBox: typeof import('./src/components/LogoBox.vue')['default']
