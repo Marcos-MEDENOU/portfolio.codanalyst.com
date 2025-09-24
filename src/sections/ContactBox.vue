@@ -19,7 +19,7 @@
     <h3>Marcos MEDENOU</h3>
     <div class="space16" />
     <p>
-      Bonjour, je suis Marcos, un développeur logiciel passionné, spécialisé en Python et en IA, avec plusieurs années 
+      Bonjour, je suis Marcos, un développeur backend passionné, spécialisé en Python et en IA, avec plusieurs années 
       d’expérience dans la création de solutions digitales performantes.
     </p>
     <div class="space32" />
